@@ -1,0 +1,2560 @@
+{
+    "status": {
+        "code": "00",
+        "message": "success",
+        "totalCount": 1
+    },
+    "contents": {
+        "subwayLine": "1호선",
+        "stationName": "제기동역",
+        "stationCode": "125",
+        "stat": [
+            {
+                "startStationCode": "100",
+                "startStationName": "소요산역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 5
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 11
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 11
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 5
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "100",
+                "startStationName": "소요산역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 7
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "101",
+                "startStationName": "동두천역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 7
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 7
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "101",
+                "startStationName": "동두천역",
+                "endStationCode": "152",
+                "endStationName": "부평역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "101",
+                "startStationName": "동두천역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "101",
+                "startStationName": "동두천역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "107",
+                "startStationName": "양주역",
+                "endStationCode": "133",
+                "endStationName": "서울역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "107",
+                "startStationName": "양주역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 6
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "107",
+                "startStationName": "양주역",
+                "endStationCode": "152",
+                "endStationName": "부평역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "107",
+                "startStationName": "양주역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 5
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "110",
+                "startStationName": "의정부역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 7
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 15
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "110",
+                "startStationName": "의정부역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 13
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 6
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "110",
+                "startStationName": "의정부역",
+                "endStationCode": "P157-1",
+                "endStationName": "서동탄역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "116",
+                "startStationName": "창동역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 8
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 17
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 17
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 17
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "161",
+                "endStationName": "인천역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "P157",
+                "endStationName": "병점역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "P157-1",
+                "endStationName": "서동탄역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 8
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 8
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "P169",
+                "endStationName": "천안역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "119",
+                "startStationName": "광운대역",
+                "endStationCode": "P177",
+                "endStationName": "신창역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "133",
+                "endStationName": "서울역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "141",
+                "endStationName": "구로역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 2
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "P157-1",
+                "endStationName": "서동탄역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "P169",
+                "endStationName": "천안역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "P169",
+                "endStationName": "천안역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "P177",
+                "endStationName": "신창역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "124",
+                "startStationName": "청량리역",
+                "endStationCode": "P177",
+                "endStationName": "신창역",
+                "prevStationCode": "124",
+                "prevStationName": "청량리역",
+                "updnLine": 1,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "133",
+                "startStationName": "서울역",
+                "endStationCode": "107",
+                "endStationName": "양주역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "133",
+                "startStationName": "서울역",
+                "endStationCode": "110",
+                "endStationName": "의정부역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "133",
+                "startStationName": "서울역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "141",
+                "startStationName": "구로역",
+                "endStationCode": "101",
+                "endStationName": "동두천역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "141",
+                "startStationName": "구로역",
+                "endStationCode": "107",
+                "endStationName": "양주역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "141",
+                "startStationName": "구로역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "152",
+                "startStationName": "부평역",
+                "endStationCode": "100",
+                "endStationName": "소요산역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "152",
+                "startStationName": "부평역",
+                "endStationCode": "101",
+                "endStationName": "동두천역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "100",
+                "endStationName": "소요산역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 38
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 40
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 40
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 40
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 20
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "100",
+                "endStationName": "소요산역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "101",
+                "endStationName": "동두천역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "101",
+                "endStationName": "동두천역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "107",
+                "endStationName": "양주역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 34
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 32
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 29
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 28
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 28
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "110",
+                "endStationName": "의정부역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 69
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 35
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 12
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 24
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 24
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 9
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 20
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 20
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "161",
+                "startStationName": "인천역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P157",
+                "startStationName": "병점역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P157",
+                "startStationName": "병점역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P157-1",
+                "startStationName": "서동탄역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 28
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 19
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 19
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 9
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P157-1",
+                "startStationName": "서동탄역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 3
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 3
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P169",
+                "startStationName": "천안역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 7
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 16
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 16
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 16
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P169",
+                "startStationName": "천안역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P169",
+                "startStationName": "천안역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 17
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P177",
+                "startStationName": "신창역",
+                "endStationCode": "119",
+                "endStationName": "광운대역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 28
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 44
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 44
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 22
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P177",
+                "startStationName": "신창역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 0,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            },
+            {
+                "startStationCode": "P177",
+                "startStationName": "신창역",
+                "endStationCode": "124",
+                "endStationName": "청량리역",
+                "prevStationCode": "126",
+                "prevStationName": "신설동역",
+                "updnLine": 0,
+                "directAt": 1,
+                "data": [
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "00",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "10",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "20",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "30",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "40",
+                        "congestionTrain": 0
+                    },
+                    {
+                        "dow": "TUE",
+                        "hh": "23",
+                        "mm": "50",
+                        "congestionTrain": 0
+                    }
+                ]
+            }
+        ],
+        "statStartDate": "20230222",
+        "statEndDate": "20230521"
+    }
+}
